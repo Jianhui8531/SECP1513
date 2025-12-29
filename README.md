@@ -22,7 +22,7 @@ Hi! I'm CHEW JIAN HUI, currently a student from **UNIVERSITI TEKNOLOGI MALAYSIA*
 | **Undergraduate Degree**     | UNIVERSITI TEKNOLOGI MALAYSIA (UTM)🔛                                     |
 
 # Assignment📝
-| **Assignment**           | **Details**           | **Reflection**                                      |
+| **Assignment**           |
 |---------------------|--------------|--------------------------------------------------|
 | **Assignment 1 (Industry Visit Video)**           | 
 | **Assignment 2 (Poster)**            | 
