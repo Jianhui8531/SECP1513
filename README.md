@@ -24,11 +24,11 @@ Hi! I'm CHEW JIAN HUI, currently a student from **UNIVERSITI TEKNOLOGI MALAYSIA*
 # Assignment📝
 | **Assignment**           | **Details**           | **Reflection**                                      |
 |---------------------|--------------|--------------------------------------------------|
-| **Assignment 1 (Industry Visit Video)**           | [Assignment 1 (Poster).pdf]()|                                        |
-| **Assignment 2 (Poster)**            | |                                      |
-| **Assignment 3 (Report Writing)**    |  |                                      |
-| **Assignment 4 (Poster)**     |  |                                      |
-| **Design Thinking Project (UTM Transport)**    |  |                                        |
+| **Assignment 1 (Industry Visit Video)**           | 
+| **Assignment 2 (Poster)**            | 
+| **Assignment 3 (Report Writing)**    |  
+| **Assignment 4 (Poster)**     |  
+| **Design Thinking Project (UTM Transport)**    |  
 
 
 
