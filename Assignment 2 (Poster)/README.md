@@ -3,7 +3,7 @@
 ## 🖼️ Technology Poster
 For this assignment, I designed a poster summarizing the key technological pillars of PPG Digital: **Data Analytics**, **Global Infrastructure**, and **SAP Systems**.
 
-![Assignment 2 Poster](./Overview%20of%20PPG,%20Data%20Analytics,%20Infrastructure,%20SAPs%20Poster.jpg)
+![Assignment 2 Poster](./Overview%20of%20PPG,%20Data%20Analytics,%20Infrastructure,%20SAPs%20Poster.png)
 
 > *This poster illustrates how PPG leverages technology to drive business decisions and maintain global operations.*
 
