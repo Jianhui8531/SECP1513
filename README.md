@@ -28,6 +28,7 @@ Hi! I'm CHEW JIAN HUI, currently a student from **UNIVERSITI TEKNOLOGI MALAYSIA*
 | **Assignment 2 (Poster)**            | 
 | **Assignment 3 (Report Writing)**    |  
 | **Assignment 4 (Poster)**     |  
+| **PC Assemble Lab Session**    |  
 | **Design Thinking Project (UTM Transport)**    |  
 
 
