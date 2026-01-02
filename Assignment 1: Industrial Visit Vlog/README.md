@@ -1,7 +1,7 @@
 # Assignment 1: Industrial Visit 1 -- UTM Digital Vlog
 
 ## 🎥 Industrial Visit Vlog
-We had the opportunity to visit the industry to understand how technology is applied in a real-world working environment. Check out my vlog of the visit below!
+My gorupmates and I had the opportunity to visit the industry to understand how technology is applied in a real-world working environment. Check out out vlog of the visit below!
 
 [![Watch the video](https://img.youtube.com/vi/ZyzCMqgYBiQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZyzCMqgYBiQ)
 
