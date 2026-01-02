@@ -61,6 +61,7 @@ Feel free to reach out if you'd like to discuss technology, networks, or just co
 | **Email** | [chewjianhui@graduate.utm.my](mailto:chewjianhui@graduate.utm.my) |
 | **GitHub** | [Jianhui8531](https://github.com/Jianhui8531) |
 | **Instagram** | [@jjianhui_c06](https://instagram.com/jjianhui_c06) |
+| **LinkedIn** | [Chew Jian Hui](https://www.linkedin.com/in/chew-jian-hui-003985235/) |
 
 <br>
 
