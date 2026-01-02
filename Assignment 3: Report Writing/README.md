@@ -7,8 +7,7 @@
 
 > *A visual summary of System Development, Project Management, and the role of AI in the industry.*
 > 
-> *[📄 Click here to view the full PDF](./TIS Assignment 3 Report.pdf)*
-
+> *[📄 Click here to view the full PDF](./TIS%20Assignment%203%20Report.pdf)*
 ---
 
 ## 📝 Reflection
