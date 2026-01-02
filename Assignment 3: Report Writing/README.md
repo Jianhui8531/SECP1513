@@ -1,8 +1,13 @@
 # Assignment 3: Industrial Talk 2 - System Development & Project Management
 
-## 🖼️ Poster
-![Assignment 3 Poster](./Your_Poster_Filename_Here.png)
+## 📄 Report Pages
+![Page 1](./Page1.png)
+![Page 2](./Page2.png)
+![Page 3](./Page3.png)
+
 > *A visual summary of System Development, Project Management, and the role of AI in the industry.*
+> 
+> *[📄 Click here to view the full PDF](./TIS Assignment 3 Report.pdf)*
 
 ---
 
