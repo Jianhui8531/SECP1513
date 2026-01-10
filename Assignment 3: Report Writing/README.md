@@ -1,4 +1,4 @@
-# Assignment 3: Industrial Talk 2 - System Development & Project Management
+# Assignment 3: Industrial Talk 2 -- System Development & Project Management
 
 ## 📄 Report Pages
 ![Page 1](./Page1.png)
