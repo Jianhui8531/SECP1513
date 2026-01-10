@@ -1,4 +1,4 @@
-# Technology and Information System (SECP1513)
+# SECP1513 - Technology and Information System 
 
 ## About Me
 Hi! I'm **Chew Jian Hui**, a first-year student at **Universiti Teknologi Malaysia (UTM)**. I am currently pursuing a Bachelor of Computer Science, specializing in Computer Networks & Security. I have a strong passion for understanding how systems communicate and how to secure them in an increasingly digital world.
