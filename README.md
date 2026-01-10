@@ -44,10 +44,10 @@ Below is a compilation of the tasks and projects I have completed throughout thi
 
 | **Project / Assignment** | **Description** |
 | :--- | :--- |
-| [**Assignment 1: Industry Visit Video**](./Assignment%201%20(Industry%20Visit%20Video)) | A video reflection on our industry visit to UTM Digital, exploring real-world tech applications. |
-| [**Assignment 2: Poster**](./Assignment%202%20(Poster)) | Producing a informative poster after an industrial talk with the title of "Overview of PPG, Data Analytics, Infrastructure, SAP". |
-| [**Assignment 3: Report Writing**](./Assignment%203%20(Report%20Writing)) | Perform academic writing in the form of report based on Industrial Talk 2 with the title of "Project Management dan System Development". |
-| [**Assignment 4: Poster**](./Assignment%204%20(Poster)) |  |
+| [**Assignment 1: Industrial Visit Vlog**](./Assignment%201%3A%20Industrial%20Visit%20Vlog) | A video reflection on our Industrial Visit 1 to UTM Digital, exploring real-world tech applications. |
+| [**Assignment 2: Poster**](./Assignment%202%3A%20Poster) | Producing an informative poster after Industrial Talk 1 with the title of "Overview of PPG, Data Analytics, Infrastructure, SAPs". |
+| [**Assignment 3: Report Writing**](./Assignment%203%3A%20Report%20Writing) | Perform academic writing in the form of a report based on Industrial Talk 2 with the title of "Project Management dan System Development". |
+| [**Assignment 4: Newsletter**](./Assignment%204%3A%20Newsletter) | A newsletter documenting the Industrial Visit 2 to Johor Port Berhad, covering ICT operations and digital ecosystems. |
 | [**PC Assemble Lab Session**](./PC%20Assemble%20Lab%20Session) | Hands-on experience in assembling and understanding PC hardware components. |
 | [**Design Thinking Project (UTM Transport)**](./Design%20Thinking%20Project%20(UTM%20Transport)) | A group project applying design thinking to develop solutions to problems through collaboration, innovation and design. |
 
