@@ -1,4 +1,4 @@
-# Assignment 2: Poster -- Overview of PPG, Data Analytics, Infrastructure, SAPs
+# Assignment 2: Poster -- Industrial Talk 1 -- Overview of PPG, Data Analytics, Infrastructure, SAPs
 
 ## 🖼️ Technology Poster
 For this assignment, my groupmates and I had attended a industrial talk that was given my PPG. We had designed a poster summarizing the key technological pillars of PPG Digital: **Data Analytics**, **Global Infrastructure**, and **SAP Systems**.
