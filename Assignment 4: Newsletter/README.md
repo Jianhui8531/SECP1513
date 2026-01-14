@@ -4,9 +4,9 @@
 On 8 January 2026, my groupmates and I had the opportunity to visit Johor Port Berhad. From there, we got to know more about how ICT works in a real-life industry and how a big company operates and manages well with the assistance of ICT. After that, we made a newsletter regarding the visit to document our findings.
 
 ## 📰 Newsletter Preview
-![Page 1](./Page%201.png)
-![Page 2](./Page%202.png)
-![Page 3](./Page%203.png)
+![Page 1](./Page%201.jpg)
+![Page 2](./Page%202.jpg)
+![Page 3](./Page%203.jpg)
 
 > *A visual summary of the digital ecosystem and ICT operations at Johor Port.*
 >
